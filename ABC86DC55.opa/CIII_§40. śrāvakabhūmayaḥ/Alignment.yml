@@ -1,0 +1,75 @@
+segment_sources:
+  PA7706902:
+    type: origin_type
+    relation: translation
+    language: sa
+  P9241F2C5:
+    type: origin_type
+    relation: translation
+    language: bo
+  PD38987D0:
+    type: origin_type
+    relation: translation
+    language: zh
+  P53B02084:
+    type: origin_type
+    relation: translation
+    language: bo
+  PFFAA67CA:
+    type: origin_type
+    relation: translation
+    language: en
+  PCF747A62:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  e9a65726b603495495a911d3532607c0:
+    PA7706902: b3d9f63fb7c94b809928786cbf08cd52
+    P9241F2C5: 3699c1c113c7488781061a75761e16a6
+    PD38987D0: ca3a02b7d834400fbe9afd98961b0539
+    P53B02084: eb1e2ad1dd6448f3804e5b368101e799
+    PFFAA67CA: None
+    PCF747A62: None
+  3fa507bc90a44eb8ba718f2a4cdf9e1d:
+    PA7706902: d71d8c3f16a04997a91200b2a20bff45
+    P9241F2C5: 222482f78fe44cbda9a27bbb34d68f2f
+    PD38987D0: 0a31d57a2cc14759b68c4cd378458f80
+    P53B02084: 0c03edada5d94ae19c81452e0111fb20
+    PFFAA67CA: None
+    PCF747A62: None
+  3269490246cf4e49b2fdcf8f8459b663:
+    PA7706902: 1fa3b8a4b7ee4aa19230456748968689
+    P9241F2C5: 78cee6f892a842ea8196f9870348d281
+    PD38987D0: 0ded4086709548f1915102b888d12bba
+    P53B02084: 6498294a69474b8ca5afac2242797dac
+    PFFAA67CA: None
+    PCF747A62: None
+  a9f66aeceda643ac8cb5acac78e68ccb:
+    PA7706902: ee2fd374b46d4c37bef67332b7f951ed
+    P9241F2C5: 9cc3113da78b43228a453ad5f7fcf98a
+    PD38987D0: 5fc9fc984bb9447d89e90d80417ef2cb
+    P53B02084: f76a461709fc4e128c343f9227226e45
+    PFFAA67CA: None
+    PCF747A62: None
+  391ccdd4808d49e29ee8f1d7edc2ebc6:
+    PA7706902: 46366c074cfe4506bdeb79fbc8149d5b
+    P9241F2C5: c7ed56a398e64310977a81789b2cfd10
+    PD38987D0: e39b128e099b4d6085fabd7e33ed083c
+    P53B02084: f3a2a2e6186649bead7cf0a71ef22f9c
+    PFFAA67CA: None
+    PCF747A62: None
+  d74185590dff4a1f9e2f7988232f3900:
+    PA7706902: 99b8a82d57264dd7a562bfb2c2f011c3
+    P9241F2C5: ba15d2a5bf1a4ecd87838c8d80d76df4
+    PD38987D0: e51d7929a1ff48eba09a359cf63d463b
+    P53B02084: 783031bb9d2e4c8098b1ff08f7668321
+    PFFAA67CA: None
+    PCF747A62: None
+  eb2001d0b2fd4c2eaff0d16063559bb9:
+    PA7706902: 566e25f1bf174243955c3851c25dc48d
+    P9241F2C5: 062c0fafb0b54739948f89ec2ae7ace5
+    PD38987D0: c654305df07240049746a9f4b3b1402d
+    P53B02084: 66cc33553e8149bfae6faf3e20bcbe17
+    PFFAA67CA: None
+    PCF747A62: None

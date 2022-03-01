@@ -1,0 +1,33 @@
+segment_sources:
+  PA7706902:
+    type: origin_type
+    relation: translation
+    language: sa
+  P9241F2C5:
+    type: origin_type
+    relation: translation
+    language: bo
+  PD38987D0:
+    type: origin_type
+    relation: translation
+    language: zh
+  P53B02084:
+    type: origin_type
+    relation: translation
+    language: bo
+  PFFAA67CA:
+    type: origin_type
+    relation: translation
+    language: en
+  PCF747A62:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  a05b959e64c842eca2f609dfb1390f59:
+    PA7706902: 4f0e7034bb384d1a914a497b3f94b00f
+    P9241F2C5: 113c9aa3e1a24ed3933e4d7f370ea03b
+    PD38987D0: b6a8290897984fc4bfa13cdeec96efe1
+    P53B02084: 69f1ba36ef274ab4a979ffcf103dd519
+    PFFAA67CA: None
+    PCF747A62: None

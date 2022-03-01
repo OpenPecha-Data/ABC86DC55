@@ -1,0 +1,68 @@
+segment_sources:
+  PA7706902:
+    type: origin_type
+    relation: translation
+    language: sa
+  P9241F2C5:
+    type: origin_type
+    relation: translation
+    language: bo
+  PD38987D0:
+    type: origin_type
+    relation: translation
+    language: zh
+  P53B02084:
+    type: origin_type
+    relation: translation
+    language: bo
+  PFFAA67CA:
+    type: origin_type
+    relation: translation
+    language: en
+  PCF747A62:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  85cdc26e5c46472cb7e44c765c8b9be3:
+    PA7706902: a28f6679a16c4b76960640565053398c
+    P9241F2C5: b9b37a9f4e664e2b8cde04f8d9b33dbf
+    PD38987D0: 5fd21458d8e848fe87a0819639ac87a7
+    P53B02084: 6b6bde44d26941988e5f2ff848c9ee73
+    PFFAA67CA: None
+    PCF747A62: None
+  b6af92ddc1bd4c5dbbc34148e7b248d1:
+    PA7706902: e4ee564a4a9b4fbda1188d208ab5ff94
+    P9241F2C5: 7f21910423f94759a1ee8f257bcbe569
+    PD38987D0: 35c52c3fe3fd47f09ab880bfd0608fb2
+    P53B02084: af36694fa3ee46d2a874bcaf6dea5711
+    PFFAA67CA: None
+    PCF747A62: None
+  db130d22b39549faa8ecb109cd840dc3:
+    PA7706902: ee1d7cf3fe35484c9c50e43122e0fd89
+    P9241F2C5: d3cba9fb5de44ce5842432cf812d0171
+    PD38987D0: 03c1d07117714bcdbff20f98d025744c
+    P53B02084: c6d46af1280c4ef1989c70ddc9b07ac8
+    PFFAA67CA: None
+    PCF747A62: None
+  ef3e5d09461b426883347b9a727cf4e0:
+    PA7706902: 2d49b72b762b47d3bfe5fee56baf725f
+    P9241F2C5: 8655983c09a441c4bcafe845597ac734
+    PD38987D0: 46e2ecf6cb5d4566ad973dc029279319
+    P53B02084: 32d359c599414f308f428f64ed6d589e
+    PFFAA67CA: None
+    PCF747A62: None
+  69e1b1cb9f4940719c51d8bde4fdcb6a:
+    PA7706902: 77a583c1d4424efc9f44ed23bed56020
+    P9241F2C5: f8eb46997fef4c0eab4303bec61e70a8
+    PD38987D0: 4253198dd3594a6783a71264607716e8
+    P53B02084: 83d6f9724e414671910f810f676f490e
+    PFFAA67CA: None
+    PCF747A62: None
+  fec5e9bd42d24cd78a305dda0d755603:
+    PA7706902: 7a261ba7944645fda540dcf9c38831c5
+    P9241F2C5: 07c57ae9e09349ac8ea1e8b913e829e9
+    PD38987D0: 30de250eaefe49278f720c6a03c81ac3
+    P53B02084: 27598c4f75cf4ed2915da9e773939931
+    PFFAA67CA: None
+    PCF747A62: None

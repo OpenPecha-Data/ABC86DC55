@@ -1,0 +1,54 @@
+segment_sources:
+  PA7706902:
+    type: origin_type
+    relation: translation
+    language: sa
+  P9241F2C5:
+    type: origin_type
+    relation: translation
+    language: bo
+  PD38987D0:
+    type: origin_type
+    relation: translation
+    language: zh
+  P53B02084:
+    type: origin_type
+    relation: translation
+    language: bo
+  PFFAA67CA:
+    type: origin_type
+    relation: translation
+    language: en
+  PCF747A62:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  e209bf0de5e847fdb9dfce8e847b6fa5:
+    PA7706902: 14efa505ffb1484b8bf4d349351bd295
+    P9241F2C5: 4bade8c169594ff8812d036715db9dbe
+    PD38987D0: dd1513538ebf429295888b344f54c88c
+    P53B02084: None
+    PFFAA67CA: None
+    PCF747A62: None
+  e8f25e62a7be44508b50585f64821201:
+    PA7706902: d088256cec4b4666b33888536f3a5aba
+    P9241F2C5: 6351fe35db0d4bf7be83695e2fe1529a
+    PD38987D0: ad7c26f0b2054d1ea50f82b4756bf5b5
+    P53B02084: None
+    PFFAA67CA: None
+    PCF747A62: None
+  8e502fb0112845169dc7188a9afb3f15:
+    PA7706902: 974a043b71af48a8b84c7347ad8847d2
+    P9241F2C5: 09b70b7e83984dd990d207d3a1977a7e
+    PD38987D0: da0ffe617f6e41999a449009adfe0ad7
+    P53B02084: None
+    PFFAA67CA: None
+    PCF747A62: None
+  4094e8f3563f400aa02fc474b2e64229:
+    PA7706902: e54e6abc66e7417db12dfe99d4c0a78c
+    P9241F2C5: None
+    PD38987D0: 21c860538b9e4516aaac7fd7cb7cacb4
+    P53B02084: None
+    PFFAA67CA: None
+    PCF747A62: None

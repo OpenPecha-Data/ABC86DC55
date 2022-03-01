@@ -1,0 +1,103 @@
+segment_sources:
+  PA7706902:
+    type: origin_type
+    relation: translation
+    language: sa
+  P9241F2C5:
+    type: origin_type
+    relation: translation
+    language: bo
+  PD38987D0:
+    type: origin_type
+    relation: translation
+    language: zh
+  P53B02084:
+    type: origin_type
+    relation: translation
+    language: bo
+  PFFAA67CA:
+    type: origin_type
+    relation: translation
+    language: en
+  PCF747A62:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  2df1f4de03774e54879b27042634a771:
+    PA7706902: 8549bd20d48149c8bfc90183c477cbf0
+    P9241F2C5: 6ef8dd756c81411fb775226e47976b06
+    PD38987D0: 8089b2644ea5497e8802e28dcab2aad6
+    P53B02084: None
+    PFFAA67CA: None
+    PCF747A62: None
+  46cbaf5d9d21442eaab108aaa626d6f4:
+    PA7706902: 992a4270af0949e4ba4011ac9c6d6d33
+    P9241F2C5: a62064cc8ac243fc9d44a343b452a19f
+    PD38987D0: 0d3a64f4da434bf6a30e9854b5f565d9
+    P53B02084: None
+    PFFAA67CA: None
+    PCF747A62: None
+  9b642f2f9e4644768199c497e5b2a39d:
+    PA7706902: 2cc0ec24aa654ea984212d61e0877d01
+    P9241F2C5: a24a2e5c415b485a8f388c4bb3e1676c
+    PD38987D0: 5f983874ac4146b296e996ec23cd5792
+    P53B02084: None
+    PFFAA67CA: None
+    PCF747A62: None
+  6525f45b914d434b98cd9661b2873d2e:
+    PA7706902: a0c9fd002f924516b12c7308321e6fcc
+    P9241F2C5: d7346cda3b9944b5ade08dea16cac1bc
+    PD38987D0: 9ec6f1aa3933450dbf755e132b73e5a6
+    P53B02084: None
+    PFFAA67CA: None
+    PCF747A62: None
+  6a1f936b49314a21b54d40b8705637d8:
+    PA7706902: 2b2c49f139c545488ec760e34d81104e
+    P9241F2C5: 74f48d6876a04e419ff66da54f5f5e0a
+    PD38987D0: 33d99be7c23d4356bbb8cd44f9c5b687
+    P53B02084: None
+    PFFAA67CA: None
+    PCF747A62: None
+  846ef842525c48fcade16c50dce18a8a:
+    PA7706902: 9a6494c5b9a74469aab9676cb78395eb
+    P9241F2C5: d51e9ea2b6f44f64912bb39f63af5d6a
+    PD38987D0: 3d2fda162afd45f0b34e571e9c137756
+    P53B02084: None
+    PFFAA67CA: None
+    PCF747A62: None
+  d0ff15e4cf6c42da865a3ae4fe3f82cd:
+    PA7706902: ea3378f4f704496f9071354e9c08d7e0
+    P9241F2C5: 1495ebfc22544022a71fb4997381827e
+    PD38987D0: f61a2731e2814436aba7c5f1f04f9872
+    P53B02084: None
+    PFFAA67CA: None
+    PCF747A62: None
+  946c8d4192db4adfa99ff4e51946adf1:
+    PA7706902: 9ad01c4e0d6340c69de58ca8141e19d8
+    P9241F2C5: 411e5ea62a204daa8e23c38bc645b247
+    PD38987D0: 5d87f099f12e4ee99038f674a3c5eeef
+    P53B02084: None
+    PFFAA67CA: None
+    PCF747A62: None
+  5ca31b294d8c4c76aa14534a2c7d17f7:
+    PA7706902: 615a5696dfe044d1bcd1f41814bce554
+    P9241F2C5: 51eb975603e74ebaba04ab06a350c8ca
+    PD38987D0: 6a47728e3aeb4ee1bfa3e8fd32923466
+    P53B02084: None
+    PFFAA67CA: None
+    PCF747A62: None
+  99c9cd0788664a84b9757c16970f920d:
+    PA7706902: 2a689e2c6a3d467c91a9a27bd0424eb7
+    P9241F2C5: 40223c27db90461a997eb66eb19ccd83
+    PD38987D0: eb2d735c3f7e4e658f73a5a6797b104b
+    P53B02084: None
+    PFFAA67CA: None
+    PCF747A62: None
+  2050d427162c4a9182977cc322333ddf:
+    PA7706902: 672f53822f834d3c88cac7f4aa1bb6d9
+    P9241F2C5: c36981f9f1a24211a1381caf6a52ec85
+    PD38987D0: 8e182431ff984f04a806bf9becdadc1c
+    P53B02084: None
+    PFFAA67CA: None
+    PCF747A62: None
